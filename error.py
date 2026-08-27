@@ -1,4 +1,4 @@
-nome = "Eduardo"
+nome = "Juliana"
 
 mensagem = f'Olá, {nome}!'
 
