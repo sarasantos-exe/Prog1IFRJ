@@ -1,0 +1,5 @@
+#13 - Converter um valor em reais para dólares (cotação fixa)
+reais = float(input("Digite o valor em reais: R$"))
+cotacao = 5.20 #cotação fixa
+dolares = reais / cotacao
+print(f"R$ {reais:.2f} equivalem a U$ {dolares:.2f}")

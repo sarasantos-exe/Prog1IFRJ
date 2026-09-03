@@ -6,7 +6,6 @@ print (mensagem)
 
 
 
-
 print ("Primeira letra:", nome[0])
 # Em Python, os índices começam no 0. 
 # Isso significa que nome[0] acessa o primeiro caractere da string "nome".

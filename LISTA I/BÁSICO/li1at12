@@ -1,0 +1,5 @@
+#12 - Criar uma calculadora de troco.
+valor = float(input("Valor da compra: R$"))
+pago = float(input("Valor pago: R$"))
+troco = pago - valor
+print(f"O troco é de R$ {troco:.2f}")

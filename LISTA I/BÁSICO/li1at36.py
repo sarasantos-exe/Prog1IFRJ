@@ -1,0 +1,3 @@
+#36 - Calcular um desconto de 12 % em uma compra.
+valor = float(input("Digite o valor da compra: ")) #float converte a entrada do usuário (que é uma string) para um número decimal.
+print(f"Valor com desconto: {valor * 0.99:.2f}") #exibe o valor com desconto, que é calculado multiplicando o valor original por 0.88 (representando um desconto de 12%). O :.2f formata o número para exibir duas casas decimais.
